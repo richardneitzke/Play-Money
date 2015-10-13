@@ -34,11 +34,24 @@
 * Transfer Money from one Player to another
 * Add a Player with a custom balance and assign a Token to him
 
-### Used Framework for Storage-Persistence
+### Used Resources
 
-Play-Money persists it's Player Data with a Model which manages all Players and uses a Realm to save them. Only the Model writes and reads directly to the Realm to make changes to the process easier.
+Play Money uses the [realm](https://realm.io) database to manage it's storage. The Tab Bar Icons are Licensed with a CC BY-ND 3.0 and provided by [icons8](http://icons8.com).
 
 ### Notes by Developer
 
 Because of the fact that it is working but not finished yet, the code could still be repetitive at some points.
 Please feel free to file bugs, fix problems or contribute elsewise by opening issues or a pull request.
+
+### TL;DR CC BY-NC 4.0 License
+
+##### You are free to:
+
+- Share - copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+##### Under the following terms:
+
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- NonCommercial — You may not use the material for commercial purposes.
+
