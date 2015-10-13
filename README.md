@@ -1,6 +1,10 @@
 <div align="center"><img src ="http://i.imgur.com/4PYP96i.png" /> <br> <br> <h1>Play Money for iOS </h1> <h3> A Money-Manager for Board Games </h3></div>
 <br> 
 
+![platform](https://img.shields.io/badge/platform-iOS-brightgreen.svg) ![deployment target](https://img.shields.io/badge/deployment%20target-iOS%209-brightgreen.svg) ![language](https://img.shields.io/badge/language-Swift%202-brightgreen.svg)
+
+<br>
+
 
 ### Screenshots
 
