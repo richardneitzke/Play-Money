@@ -53,4 +53,4 @@ Because of the fact that it is working but not finished yet, the code could stil
 Please feel free to file bugs, fix problems or contribute elsewise by opening issues or a pull request.
 
 ### License
-This project is licensed under the MIT License, see the [https://github.com/richardxyx/Play-Money/blob/master/LICENSE.md](LICENSE.md) for more information.
+This project is licensed under the MIT License, see the [LICENSE.md](https://github.com/richardxyx/Play-Money/blob/master/LICENSE.md) for more information.
