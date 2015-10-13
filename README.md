@@ -1,5 +1,4 @@
 <div align="center"><img src ="http://i.imgur.com/4PYP96i.png" /> <br> <br> <h1>Play Money for iOS </h1> <h3> A Money-Manager for Board Games </h3></div>
-<br> 
 
 <div align="center">
 
