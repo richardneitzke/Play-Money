@@ -1,4 +1,4 @@
-<div align="center"><img src ="http://i.imgur.com/4PYP96i.png" /> <br> <br> <h1>Play Money for iOS </h1> <h3> A Money-Manager for Board Games </h3></div>
+<div align="center"><img src ="http://i.imgur.com/4PYP96i.png" /> <br> <br> <h1>Play Money for iOS </h1> <h3> A Money Manager for Board Games </h3></div>
 
 <div align="center">
 
@@ -45,22 +45,12 @@
 
 ### Used Resources
 
-Play Money uses the [realm](https://realm.io) database to manage it's storage. The Tab Bar Icons are Licensed with a CC BY-ND 3.0 and provided by [icons8](http://icons8.com).
+Play Money uses the [Realm](https://realm.io) database for storage management. The Tab Bar Icons are licensed under CC BY-ND 3.0 and provided by [icons8](http://icons8.com).
 
 ### Notes by Developer
 
 Because of the fact that it is working but not finished yet, the code could still be repetitive at some points.
 Please feel free to file bugs, fix problems or contribute elsewise by opening issues or a pull request.
 
-### TL;DR CC BY-NC 4.0 License
-
-##### You are free to:
-
-- Share - copy and redistribute the material in any medium or format
-- Adapt — remix, transform, and build upon the material
-
-##### Under the following terms:
-
-- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- NonCommercial — You may not use the material for commercial purposes.
-
+### License
+This project is licensed under the MIT License, see the [https://github.com/richardxyx/Play-Money/blob/master/LICENSE.md](LICENSE.md) for more information.
