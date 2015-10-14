@@ -90,11 +90,11 @@ class AddPlayerViewController: UITableViewController, UICollectionViewDataSource
     //Draws border around a selected cell
     func collectionView(collectionView: UICollectionView, didSelectItemAtIndexPath indexPath: NSIndexPath) {
         for i in 0...7 {
-            let cell = collectionView.cellForItemAtIndexPath(NSIndexPath(forItem: i, inSection: 0))!
+            let cell = collectionView.cellForItemAtIndexPath(NSIndexPath(forItem: i, inSection: 0))! as! TokenCell
             if cell.selected && !players.tokenInUse(i) {
-                cell.layer.borderWidth = 1
+                cell.imageView.image = UIImage(named: "\(tokenImageForIndex(i))_filled")
             } else {
-                cell.layer.borderWidth = 0
+                cell.imageView.image = UIImage(named: "\(tokenImageForIndex(i))")
                 collectionView.deselectItemAtIndexPath(NSIndexPath(forItem: i, inSection: 0), animated: false)
             }
         }
@@ -102,7 +102,8 @@ class AddPlayerViewController: UITableViewController, UICollectionViewDataSource
     
     //Deletes border when cell is deselected
     func collectionView(collectionView: UICollectionView, didDeselectItemAtIndexPath indexPath: NSIndexPath) {
-        collectionView.cellForItemAtIndexPath(indexPath)!.layer.borderWidth = 0
+        let cell = collectionView.cellForItemAtIndexPath(indexPath)! as! TokenCell
+        cell.imageView.image = UIImage(named: "\(tokenImageForIndex(indexPath.item))")
     }
     
     //Returns Token Name of the currently selected cell
