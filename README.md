@@ -16,15 +16,15 @@
 <table align="center" border="0">
 
 <tr>
-<td> <img src="http://i.imgur.com/dQqZZRE.jpg"> </td>
-<td> <img src="http://i.imgur.com/Gwm985R.jpg"> </td>
+<td> <img src="http://i.imgur.com/LRANfqh.jpg"> </td>
+<td> <img src="http://i.imgur.com/lvxu4SM.jpg"> </td>
 </tr>
 
 <tr> <td align="center">Bank (Main View)</td> <td align="center">Player Menu</td> </tr>
 
 <tr>
-<td> <img src="http://i.imgur.com/nHkM7aL.jpg"> </td>
-<td> <img src="http://i.imgur.com/wsN2SWF.jpg"> </td>
+<td> <img src="http://i.imgur.com/ztCPY4F.jpg"> </td>
+<td> <img src="http://i.imgur.com/j6MLqAU.jpg"> </td>
 </tr>
 
 <tr> <td align="center">Transfering Money</td> <td align="center">Adding a Player</td> </tr>
