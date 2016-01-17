@@ -1,3 +1,7 @@
+### Warning!
+This is an old project. It does contain a lot of bad code I wrote when I started out with iOS Development. I am not mantaining this project anymore and it is only here for historic reasons.
+<br/><br/><br/>
+
 <div align="center"><img src ="http://i.imgur.com/4PYP96i.png" /> <br> <br> <h1>Play Money for iOS </h1> <h3> A Money Manager for Board Games </h3></div>
 
 <div align="center">
